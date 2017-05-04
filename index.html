@@ -2,8 +2,100 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet">
   <title>Tint Books · Oblique Strategies</title>
+    
+     <!---------first image always------------>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="body" class="imageOne"></div> 
+    
+ 
+
 <style>
+    
+    html, body, #body {
+    height: 100%;
+    width: 100%;
+ font-family: 'Oswald', sans-serif;
+}
+
+
+    
+/*----------background images that change----------*/
+#body {
+  max-height: 100%;
+  max-width: 100%; 
+}
+   
+#body.imageOne { 
+    
+    background-image:
+    url("first.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    
+#body.imageTwo { 
+        background-image: url(2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+#body.imageThree { 
+    background-image: url("3.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+
+#body.imageFour { 
+    background-image: url("4.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+#body.imageFive { 
+    background-image: url("5.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+    </style>
+    
+    
+    
+    
+    
+    <script>
+    
+    var bodyObj, className, index;
+        
+// all background images, calling them to change
+        
+var bodyObj = document.getElementById('body'),
+  index = 1,
+  className = ['imageOne', 'imageTwo', 'imageThree', 'imageFour', 'imageFive']; // remove trailing comma here
+
+function updateIndex() {
+  index = ++index % className.length;
+}
+
+bodyObj.addEventListener('click', function(e) {
+  e.currentTarget.className = className[index];
+  updateIndex();
+});
+
+    
+    </script>
+    
+    
+    
+
+    
+    
+    <!-------------------------------------------OBLIQUE STRATEGIES-------------------------->
+    
+    <style>
 	/*
 	
 	Things to develop:
@@ -16,15 +108,19 @@
 	*/
 	/* Basic body styling. */
 	body {
-	background: rgb(33,42,52);
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
-	font: 1em "Avenir";
+	
+	letter-spacing: 0.06em;
+	font-family: 'Oswald', sans-serif;
+    font-size: 1.3em;
+    
 	}
+        
+        
 	/* The container that the card is centred inside. */
 	.container {
 	position: fixed !important;
 	position: absolute;
+    z-index: -1;
 	top:0;
 	right:0;
 	bottom:0;
@@ -38,6 +134,7 @@
 	/* This is the card. */
 	.card {
 	padding: 10px;
+    /*margin-right: 130px;*/
 	width: 440px;
 	height: 280px;
 	background: rgba(255,255,255,0.9);
@@ -46,13 +143,15 @@
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	box-shadow: 0 5px 5px rgba(0,0,0,0.75);
+	
 	-webkit-perspective: 1000; /* NEW */
 	}
 	/* Padding so the type doesn't hit the edge of the card. */
 	
 	p {
+        
 	padding: 10px;
+    font-size: 1.6em;
 	}
 	/* The CSS for the fade in. */ 
 	@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
@@ -200,15 +299,19 @@
 		"You don’t have to be ashamed of using your own ideas",
 		// The following is where the randomness magic happens. 
 		];
-		var pickAStrategy = function () {
-		var randomStrategy = selectStrategy[Math.floor(Math.random() * selectStrategy.length)];
-		return randomStrategy;
-		};
-		// This writes the strategy to the page.
-		
-		document.getElementById("randomStrategy").innerHTML = pickAStrategy();
-		</script>		
+		 var pickAStrategy = function () {
+  var randomStrategy = selectStrategy[Math.floor(Math.random() * selectStrategy.length)];
+  document.getElementById('randomStrategy').innerHTML = randomStrategy;
+};
+
+pickAStrategy();
+document.addEventListener('click', pickAStrategy, true);
+		</script>	
+        
+
 	</div> <!-- /card -->
 </div> <!-- /container -->
 </body>
 </html>
+
+    
