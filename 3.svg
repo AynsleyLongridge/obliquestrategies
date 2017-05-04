@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape">
+            <path d="M-18,-3 L1332,-3 L1332,923 L-18,923 L-18,-3 Z M372,283.00181 L372,566.99819 C372,580.815628 383.193359,592 397.001067,592 L890.998933,592 C904.809317,592 916,580.806308 916,566.99819 L916,283.00181 C916,269.184372 904.806641,258 890.998933,258 L397.001067,258 C383.190683,258 372,269.193692 372,283.00181 Z" id="Combined-Shape" fill="#F66B6E"></path>
+            <rect id="Rectangle" fill="#F56B6E" x="-10" y="-11" width="1290" height="20"></rect>
+            <path d="M916,472.422945 L952.30924,553.531002 C955.694124,561.0922 964.567677,564.477771 972.128874,561.092887 L979.69076,541.273253 L916,399 L916,472.422945 Z" id="Combined-Shape" fill="#D25255"></path>
+            <path d="M968.5,547.5 L952,511" id="Line" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M966.5,535.5 L950,499" id="Line" stroke="#131313" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Triangle-2" fill="#B0CFDB" points="1280 359 1280 903 797 903"></polygon>
+            <path d="M916,460.020818 L952.30924,541.128874 C955.694124,548.690072 964.567677,552.075643 972.128874,548.69076 L979.69076,528.871126 L916,386.597872 L916,460.020818 Z" id="Combined-Shape" fill="#131313"></path>
+            <polyline id="Path" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="950 208.818182 980.545455 139 1050.36364 178.272727 1046 77.9090909 1142 108.454545 1128.90909 43"></polyline>
+            <polyline id="Path" stroke="#131313" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="943 201.818182 973.545455 132 1043.36364 171.272727 1039 70.9090909 1135 101.454545 1121.90909 36"></polyline>
+            <polyline id="Path" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" transform="translate(914.236808, 749.375211) rotate(20.000000) translate(-914.236808, -749.375211) " points="886.251917 784.284302 916.797371 714.466121 942.221698 728.811896"></polyline>
+            <polyline id="Path" stroke="#7D98A2" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" transform="translate(1045.768398, 733.803349) rotate(20.000000) translate(-1045.768398, -733.803349) " points="1002.58658 801.439712 998.268398 701.076076 1093.2684 731.62153 1080.31385 666.166985"></polyline>
+            <polygon id="Triangle-2" fill="#F7FDFF" points="1280 359 1280 425 907 850 843 850"></polygon>
+            <polyline id="Path" stroke="#131313" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" transform="translate(987.000000, 718.909091) rotate(20.000000) translate(-987.000000, -718.909091) " points="891 801.818182 921.545455 732 991.363636 771.272727 987 670.909091 1083 701.454545 1069.90909 636"></polyline>
+            <polyline id="Path" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" transform="translate(97.462843, 162.604450) rotate(-98.000000) translate(-97.462843, -162.604450) " points="1.46284303 245.513541 32.0082976 175.695359 101.826479 214.968086 97.462843 114.60445 193.462843 145.149904 180.371934 79.695359"></polyline>
+            <polyline id="Path" stroke="#131313" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" transform="translate(99.462843, 151.604450) rotate(-98.000000) translate(-99.462843, -151.604450) " points="3.46284303 234.513541 34.0082976 164.695359 103.826479 203.968086 99.462843 103.60445 195.462843 134.149904 182.371934 68.695359"></polyline>
+            <path d="M193,488.929594 L287.60777,394.321824" id="Path-2" stroke="#C84E51" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M193,480.929594 L287.60777,386.321824" id="Path-2" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M143,822.929594 L237.60777,728.321824" id="Path-2" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M140,813.929594 L234.60777,719.321824" id="Path-2" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M146,543.190931 L152.964797,537.773866" id="Path-2" stroke="#D25255" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M140,541.190931 L146.964797,535.773866" id="Path-2" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M1194.9648,166.773866 L1194.9648,166.773866" id="Path-2" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" fill="#FFDD5A" cx="240" cy="19" r="100"></circle>
+            <path d="M375.596973,271 C368.624662,275.4365 364,283.232653 364,292.109244 L364,576.105625 C364,589.923062 375.193359,601.107434 389.001067,601.107434 L882.998933,601.107434 C892.818209,601.107434 901.313146,595.448682 905.403027,587.214869 C901.529453,589.679635 896.93127,591.107434 891.998933,591.107434 L398.001067,591.107434 C384.193359,591.107434 373,579.923062 373,566.105625 L373,282.109244 C373,278.118791 373.934614,274.346687 375.596973,271 Z" id="Combined-Shape" fill="#CBCBCB"></path>
+        </g>
+    </g>
+</svg>

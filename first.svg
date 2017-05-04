@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1280 2.84217094e-14 1354 425 560 -66"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape">
+            <path d="M0,0 L1280,0 L1280,850 L0,850 L0,0 Z M368,283.00181 L368,566.99819 C368,580.815628 379.193359,592 393.001067,592 L886.998933,592 C900.809317,592 912,580.806308 912,566.99819 L912,283.00181 C912,269.184372 900.806641,258 886.998933,258 L393.001067,258 C379.190683,258 368,269.193692 368,283.00181 Z" id="Combined-Shape" fill="#EDEDED"></path>
+            <g id="Triangle-3">
+                <use fill="#EEAAD9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#212121" stroke-width="40" d="M1299.70355,-3.43073649 L1297.07651,-18.5185055 L1281.82568,-19.9164981 L561.825679,-85.9164981 L477.225696,-93.6714965 L549.481022,-48.9896768 L1343.48102,442.010323 L1381.33895,465.421209 L1373.70355,421.569264 L1299.70355,-3.43073649 Z"></path>
+            </g>
+            <polygon id="Rectangle-6" fill="#FEB900" transform="translate(93.500000, 425.000000) rotate(180.000000) translate(-93.500000, -425.000000) " points="145.5 0 187 0 187 850 0 850"></polygon>
+            <ellipse id="Oval" fill="#212121" cx="68.5" cy="63" rx="24.5" ry="24"></ellipse>
+            <path d="M157.307158,14 L173,14 L173,836 L16.6000994,836 L157.307158,14 Z" id="Rectangle-6" stroke="#212121" stroke-width="28"></path>
+            <path d="M1164,563.802558 L1164,775 L1017.72622,775 L1164,563.802558 Z" id="Rectangle-6" stroke="#FEB900" stroke-width="28"></path>
+            <path d="M1130,571.802558 L1130,783 L983.726216,783 L1130,571.802558 Z" id="Rectangle-6" stroke="#212121" stroke-width="28"></path>
+            <path d="M369.596973,272 C362.624662,276.4365 358,284.232653 358,293.109244 L358,577.105625 C358,590.923062 369.193359,602.107434 383.001067,602.107434 L876.998933,602.107434 C886.818209,602.107434 895.313146,596.448682 899.403027,588.214869 C895.529453,590.679635 890.93127,592.107434 885.998933,592.107434 L392.001067,592.107434 C378.193359,592.107434 367,580.923062 367,567.105625 L367,283.109244 C367,279.118791 367.934614,275.346687 369.596973,272 Z" id="Combined-Shape" fill="#CBCBCB"></path>
+        </g>
+    </g>
+</svg>

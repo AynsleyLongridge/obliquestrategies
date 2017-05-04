@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape">
+            <path d="M-16,-16 L1280,-16 L1280,850 L-16,850 L-16,-16 Z M368,283.00181 L368,566.99819 C368,580.815628 379.193359,592 393.001067,592 L886.998933,592 C900.809317,592 912,580.806308 912,566.99819 L912,283.00181 C912,269.184372 900.806641,258 886.998933,258 L393.001067,258 C379.190683,258 368,269.193692 368,283.00181 Z" id="Combined-Shape" fill="#D4E8EF"></path>
+            <rect id="Rectangle-8" stroke="#212121" stroke-width="18" x="9" y="9" width="1262" height="832"></rect>
+            <path d="M370.596973,271 C363.624662,275.4365 359,283.232653 359,292.109244 L359,576.105625 C359,589.923062 370.193359,601.107434 384.001067,601.107434 L877.998933,601.107434 C887.818209,601.107434 896.313146,595.448682 900.403027,587.214869 C896.529453,589.679635 891.93127,591.107434 886.998933,591.107434 L393.001067,591.107434 C379.193359,591.107434 368,579.923062 368,566.105625 L368,282.109244 C368,278.118791 368.934614,274.346687 370.596973,271 Z" id="Combined-Shape" fill="#CBCBCB"></path>
+            <g id="Group" transform="translate(-112.000000, -154.000000)">
+                <ellipse id="Oval-2" stroke="#B0CFDB" stroke-width="46" cx="1243" cy="703" rx="94" ry="167"></ellipse>
+                <ellipse id="Oval-2" fill="#212121" cx="1179" cy="643.5" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" stroke="#F56B6E" stroke-width="46" cx="1209" cy="688" rx="94" ry="167"></ellipse>
+                <ellipse id="Oval-2" stroke="#B0CFDB" stroke-width="46" cx="640" cy="171" rx="94" ry="167"></ellipse>
+                <ellipse id="Oval-2" fill="#B0CFDB" transform="translate(767.929339, 188.175965) rotate(-41.000000) translate(-767.929339, -188.175965) " cx="767.929339" cy="188.175965" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" stroke="#F56B6E" stroke-width="46" cx="658" cy="167" rx="94" ry="167"></ellipse>
+                <ellipse id="Oval-2" fill="#F56B6E" transform="translate(266.929339, 675.175965) rotate(-41.000000) translate(-266.929339, -675.175965) " cx="266.929339" cy="675.175965" rx="64" ry="66.5"></ellipse>
+                <polygon id="Triangle" stroke="#212121" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" transform="translate(254.012955, 949.973666) rotate(35.000000) translate(-254.012955, -949.973666) " points="254.012955 782.973666 358.023593 1116.97367 150.002318 1116.97367"></polygon>
+                <polygon id="Triangle" stroke="#212121" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" transform="translate(1060.241757, 282.306510) rotate(-54.000000) translate(-1060.241757, -282.306510) " points="1060.24176 115.30651 1164.25239 449.30651 956.231119 449.30651"></polygon>
+                <polygon id="Triangle" stroke="#212121" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" transform="translate(273.762565, 442.307498) rotate(-102.000000) translate(-273.762565, -442.307498) " points="273.762565 375.807498 328.034206 508.807498 219.490924 508.807498"></polygon>
+                <polygon id="Triangle" stroke="#212121" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" transform="translate(590.828875, 869.733947) rotate(-222.000000) translate(-590.828875, -869.733947) " points="590.828875 803.233947 645.100516 936.233947 536.557233 936.233947"></polygon>
+                <ellipse id="Oval-2" fill="#B0CFDB" transform="translate(266.929339, 384.175965) rotate(-41.000000) translate(-266.929339, -384.175965) " cx="266.929339" cy="384.175965" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" fill="#212121" transform="translate(275.929339, 372.175965) rotate(-41.000000) translate(-275.929339, -372.175965) " cx="275.929339" cy="372.175965" rx="64" ry="66.5"></ellipse>
+                <path d="M856.894881,412 C859.37365,398.386774 866.214206,385.62574 877.301413,375.987778 C903.977547,352.798568 945.135714,356.470017 969.230752,384.188187 C976.474072,392.520673 981.350856,402.077699 983.904672,412 L856.894881,412 Z" id="Combined-Shape" fill="#F56B6E"></path>
+                <ellipse id="Oval-2" fill="#B0CFDB" transform="translate(375.271641, 621.312085) rotate(-41.000000) translate(-375.271641, -621.312085) " cx="375.271641" cy="621.312085" rx="38.2789031" ry="38.6888761"></ellipse>
+                <ellipse id="Oval-2" fill="#F56B6E" transform="translate(91.929339, 990.175965) rotate(-41.000000) translate(-91.929339, -990.175965) " cx="91.9293386" cy="990.175965" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" fill="#F56B6E" transform="translate(384.271641, 608.312085) rotate(-41.000000) translate(-384.271641, -608.312085) " cx="384.271641" cy="608.312085" rx="38.2789031" ry="38.6888761"></ellipse>
+                <ellipse id="Oval-2" fill="#212121" transform="translate(1310.271641, 225.312085) rotate(-41.000000) translate(-1310.271641, -225.312085) " cx="1310.27164" cy="225.312085" rx="38.2789031" ry="38.6888761"></ellipse>
+                <ellipse id="Oval-2" fill="#F56B6E" transform="translate(1178.597187, 401.676590) rotate(-41.000000) translate(-1178.597187, -401.676590) " cx="1178.59719" cy="401.67659" rx="20.6051735" ry="21.4100631"></ellipse>
+                <ellipse id="Oval-2" fill="#B0CFDB" transform="translate(935.929339, 870.175965) rotate(-41.000000) translate(-935.929339, -870.175965) " cx="935.929339" cy="870.175965" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" fill="#212121" transform="translate(951.929339, 870.175965) rotate(-41.000000) translate(-951.929339, -870.175965) " cx="951.929339" cy="870.175965" rx="64" ry="66.5"></ellipse>
+                <ellipse id="Oval-2" fill="#212121" transform="translate(751.929339, 176.175965) rotate(-41.000000) translate(-751.929339, -176.175965) " cx="751.929339" cy="176.175965" rx="64" ry="66.5"></ellipse>
+            </g>
+            <rect id="Rectangle-8" stroke="#212121" stroke-width="18" x="52" y="57" width="1165" height="741"></rect>
+        </g>
+    </g>
+</svg>
